@@ -5,4 +5,5 @@ This notebook was created as part of the Lake-Effect Electrification (LEE) Proje
 
 ## How to get started...
 `conda env create -f environment.yml
+ 
  conda activate 850mb_multiplot`
