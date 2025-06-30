@@ -3,7 +3,6 @@ An easily customizable notebook to create a multi-subplot figure with 850mb temp
 
 This notebook was created as part of the Lake-Effect Electrification (LEE) Project to easily plot salient data points from key LES events during the field campaign.
 
-***This code currently only works on Mac and Linux machines, trying to find a workaround for Windows users at the moment.***
 ## How to get started...
 Install the environment.yml file, and create and activate the conda environment on your machine. Then, install the other modules that do not play nice with the conda environment.
 ```
