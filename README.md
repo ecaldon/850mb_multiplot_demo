@@ -11,7 +11,7 @@ conda activate 850mb_multiplot
 pip install arm_pyart
 pip install nexradaws
 ```
-Next, download the `850mb_multipanel_demo.ipynb` file and `rap` directory into a convenient directory on your machine. `cd` to this directory in your terminal and then run
+Next, download the `850mb_multipanel_demo.ipynb` file (and files in the `rap` directory for some RAP files to immediately play with) into a convenient directory on your machine. `cd` to this directory in your terminal and then run
 ```
 conda activate 850mb_multiplot
 jupyter lab
