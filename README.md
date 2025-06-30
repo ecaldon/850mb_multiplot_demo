@@ -11,4 +11,9 @@ conda activate 850mb_multiplot
 pip install arm_pyart
 pip install nexradaws
 ```
-Then, you should be ready to run the notebook in your newly created environment! Happy plotting!
+Next, download the `850mb_multipanel_demo.ipynb` file and `rap` directory into a convenient directory on your machine. `cd` to this directory in your terminal and then run
+```
+conda activate 850mb_multiplot
+jupyter lab
+```
+You should be ready to run the notebook in your newly created environment! Go through the customization blocks to change the directories and settings to your specifications. Happy plotting!
