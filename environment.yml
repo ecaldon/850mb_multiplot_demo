@@ -11,5 +11,10 @@ dependencies:
   - cartopy
   - metpy
   - git
+  - metview-python
+  - metview
   - pytables
+  - spyder
+  - jupytext
+  - gdal
 prefix: /Users/zeke/anaconda3/envs/850mb_multiplot
