@@ -23,7 +23,7 @@ You should be ready to run the notebook in your newly created environment! Go th
   - A gate filter to mask data under a certain user-defined minimum
 - Improved Markdown comments in the notebook for easier navigation
 - Added figure DPI customizations to designated customization code blocks
-- Added toggle function to save figure, allowing for faster debugging and customization since saving the figure takes about 2 minutes with a DPI of 500 and six subplots
+- Added toggle function for saving the figure, allowing for faster debugging and customization since saving the figure takes about 2 minutes with a DPI of 500 and six subplots
 - Back-end changes and bug fixes:
   - Changed RAP code to use `cfgrib` module instead of `pygrib` to allow for MRMS and RAP products to work efficiently and properly
   - Improved RAP caching so that RAP analysis plotting only uses cached files that have the same data area as the currently-defined area
