@@ -28,6 +28,6 @@ You should be ready to run the notebook in your newly created environment! Go th
   - Changed RAP code to use `cfgrib` module instead of `pygrib` to allow for MRMS and RAP products to work efficiently and properly
   - Improved RAP caching so that RAP analysis plotting only uses cached files that have the same data area as the currently-defined area
   - `lma` directory automatically created, preventing path errors
-  - Changed MRMS (previously radar) plotting to use cmweather or MatPlotLib color maps directly now that PyART is unused
-Reworked import modules accordingly for MRMS changes
+  - Changed MRMS (previously radar) plotting to use `cmweather` or `MatPlotLib` color maps directly now that PyART is unused
+  - Reworked `import` modules accordingly for MRMS changes
 
