@@ -17,6 +17,10 @@ jupyter lab
 You should be ready to run the notebook in your newly created environment! Go through the customization blocks to change the directories and settings to your specifications. Happy plotting!
 
 ## Recent updates...
+**Minor Update 7/25/25**
+- New capability to add a user-defined number of location markers with customizable latitudes, longitudes, colors, and marker shapes
+- New RAP analysis customization to define density of wind barb station plots
+
 **Major Update 7/16/25**
 - New capability to use NSSL's Multi-Radar Multi-Sensor (MRMS) products as a layer, replacing the need for gridded NEXRAD files, including the following new customizations:
   - Ability to choose fields from over 200 MRMS products
