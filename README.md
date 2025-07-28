@@ -18,7 +18,7 @@ You should be ready to run the notebook in your newly created environment! Go th
 
 ## Recent updates...
 **Minor Update 7/28/25**
-- RAP plot now converts ms^-1^ to kts
+- RAP plot now converts ms<sup>-1</sup> to kts
 - RAP plot now uses closest RAP analysis file time-wise instead of file with only the same hour
 
 **Minor Update 7/25/25**
