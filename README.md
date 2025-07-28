@@ -17,6 +17,10 @@ jupyter lab
 You should be ready to run the notebook in your newly created environment! Go through the customization blocks to change the directories and settings to your specifications. Happy plotting!
 
 ## Recent updates...
+**Minor Update 7/28/25**
+- RAP plot now converts ms^-1 to kts
+- RAP plot now uses closest RAP analysis file time-wise instead of file with only the same hour
+
 **Minor Update 7/25/25**
 - New capability to add a user-defined number of location markers with customizable latitudes, longitudes, colors, and marker shapes
 - New RAP analysis customization to define density of wind barb station plots
