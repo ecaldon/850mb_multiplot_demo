@@ -19,7 +19,7 @@ You should be ready to run the notebook in your newly created environment! Go th
 ## Recent updates...
 **Minor Update 7/28/25**
 - RAP plot now converts ms<sup>-1</sup> to kts
-- RAP plot now uses closest RAP analysis file time-wise instead of file with only the same hour
+- RAP plot now uses closest RAP analysis file time-wise instead of file with same hour digit
 
 **Minor Update 7/25/25**
 - New capability to add a user-defined number of location markers with customizable latitudes, longitudes, colors, and marker shapes
