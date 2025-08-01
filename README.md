@@ -4,14 +4,18 @@ An easily customizable notebook to create a multi-subplot figure with 850mb temp
 This notebook was created as part of the Lake-Effect Electrification (LEE) Project to easily plot salient data points from key LES events during the field campaign.
 
 ## How to get started...
+`cd` to a convenient directory on your machine and run the following:
+```
+git clone https://github.com/ecaldon/850mb_multiplot_demo.git
+cd 850mb_multiplot_demo
+```
 Create and activate the conda environment on your machine using the environment.yml file.
 ```
 conda env create -f environment.yml
 conda activate 850mb_multiplot
 ```
-Next, download the `850mb_multipanel_demo.ipynb` file (and files in the `rap` directory for some RAP files to immediately play with) into a convenient directory on your machine. `cd` to this directory in your terminal and then run
+Then you can run...
 ```
-conda activate 850mb_multiplot
 jupyter lab
 ```
 You should be ready to run the notebook in your newly created environment! Go through the customization blocks to change the directories and settings to your specifications. Happy plotting!
